@@ -1,3 +1,10 @@
+<a href="https://github.com/samanthahaak">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+
+<br/>
+
+
 ### Hi there! I am Samantha Haak 👋
 
 - 🌱 I’m currently learning Python and WEB3
