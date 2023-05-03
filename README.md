@@ -1,9 +1,8 @@
+<div style="display: inline_block">
 <a href="https://github.com/samanthahaak">
   <img align="center" width="49%" src="./header.svg" />
 </a>
-
-<br/>
-
+</div>
 
 ### Hi there! I am Samantha Haak 👋
 
