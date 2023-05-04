@@ -1,3 +1,7 @@
+<a href="https://github.com/raaha">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+
 ### Hi there! I am Samantha Haak 👋
 
 - 🌱 I’m currently learning Python and WEB3
